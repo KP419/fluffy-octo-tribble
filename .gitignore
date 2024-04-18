@@ -1,0 +1,3 @@
+venv
+# dont commit code if there is no point to send ie version code such as python 
+*__pycache__*
